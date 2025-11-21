@@ -1,5 +1,5 @@
 # Gmail-Spammer
-Gmail spammer made by Alonzo @alonzoahutup on discord
+Gmail spammer made by Alonzo
 
 # Instractions
 1. open the folder in CMD
